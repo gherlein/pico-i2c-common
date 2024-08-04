@@ -1,6 +1,0 @@
-#add_library(pico-i2c-common SHARED
-#        pico-i2c-common.c
-#)
-
-# pull in common dependencies and additional i2c hardware support
-#target_link_libraries(pico-i2c-common pico_stdlib hardware_i2c)
